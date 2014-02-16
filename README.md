@@ -1,12 +1,10 @@
--VB6-QTSS
+-VB6-QTSS (03 Feb 2009)
 =========
 
 See my article about this project: http://dinhquangtrung.net/blog/some-softwares-i-made
 
 Description
 ---------
-
-Created: 03 Feb 2009
 
 A virus/trojan named QTSS.
 
